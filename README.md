@@ -85,8 +85,8 @@ I enjoy solving programming problems and improving my problem-solving skills thr
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohamedHatori&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedHatori&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Mahmoud15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Mahmoud15&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
@@ -94,7 +94,7 @@ I enjoy solving programming problems and improving my problem-solving skills thr
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MohamedHatori&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Mohamed-Mahmoud15&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
