@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Mohamed Mahmoud
+# Hi there , I'm Mohamed Mahmoud
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -14,23 +14,23 @@
 
 <img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="200" alt="Coding GIF"/>
 
-🎓 Computer Science student at **Benha National University**.
+ Computer Science student at **Benha National University**.
 
-💻 Passionate about **Front-End Development, Competitive Programming, and Computer Science fundamentals**.
+ Passionate about **Front-End Development, Competitive Programming, and Computer Science fundamentals**.
 
-🚀 Currently building my skills in **JavaScript, React, and modern Web Development**.
+ Currently building my skills in **JavaScript, React, and modern Web Development**.
 
-🧠 I enjoy solving programming problems and improving my **problem-solving and algorithmic thinking**.
+ I enjoy solving programming problems and improving my **problem-solving and algorithmic thinking**.
 
-🌱 Always learning, building projects, and exploring new technologies.
+  Always learning, building projects, and exploring new technologies.
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-### 💻 Programming & Web Development
+###  Programming & Web Development
 
 <p>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
